@@ -1,0 +1,3 @@
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:0763DE56-F436-4B69-973E-24F80A82FCCD, OS:17.2, name:iPhone 15 }
+{ platform:iOS Simulator, id:0763DE56-F436-4B69-973E-24F80A82FCCD, OS:17.2, name:iPhone 15 }
